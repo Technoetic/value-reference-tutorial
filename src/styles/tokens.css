@@ -1,0 +1,20 @@
+:root {
+  --paper: #f7f3ec;
+  --white: #fffdf9;
+  --ink: #231813;
+  --muted: #6f5d53;
+  --line: #dfd4c6;
+  --espresso: #241712;
+  --dark: #140c09;
+  --amber: #f7c96e;
+  --amber-soft: #f9ebc8;
+  --terracotta: #c44d2c;
+  --terracotta-soft: #fdede6;
+  --sage-soft: #e9f2e2;
+  --radius: 24px;
+  --small-radius: 14px;
+  --max: 1280px;
+  --font: "Pretendard", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --mono: "SFMono-Regular", Consolas, monospace;
+  --shadow: 0 18px 48px #23181312;
+}
